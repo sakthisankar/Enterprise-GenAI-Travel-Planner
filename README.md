@@ -113,4 +113,6 @@ Provides:
 # Demo
 
 ![Inbox](assets/AI-Travel-Planner-Demo.png)
+![Inbox](assets/Enterprise-GenAI-Travel-Planner-Demo.pdf)
+
 
