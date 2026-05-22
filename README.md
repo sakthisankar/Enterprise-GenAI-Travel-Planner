@@ -108,7 +108,7 @@ Provides:
 
 # System Architecture
 
-![Inbox](assets/ai-travel-pipeline.png)
+![Inbox](assets/ai-travel-pipeline.svg)
 
 # Demo
 
