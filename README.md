@@ -115,6 +115,6 @@ Provides:
 ![Inbox](assets/AI-Travel-Planner-Demo.png)
 
 # Refer Demo PDF (assets folder)
-# Enterprise-GenAI-Travel-Planner-Demo.pdf
+Enterprise-GenAI-Travel-Planner-Demo.pdf
 
 
