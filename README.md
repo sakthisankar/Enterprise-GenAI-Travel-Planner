@@ -108,28 +108,7 @@ Provides:
 
 # System Architecture
 
-                    ┌─────────────────────┐
-                    │     User Input      │
-                    │ Destination/Budget  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   GPT-4o Planner    │
-                    │  LangChain Agent    │
-                    └──────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        ▼                      ▼                      ▼
-┌────────────────┐   ┌────────────────┐   ┌────────────────┐
-│ Google Places  │   │ Budget Engine  │   │ Hotel Selector │
-│ API Tool       │   │ Optimization   │   │ Recommendation │
-└────────────────┘   └────────────────┘   └────────────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ Final AI Itinerary  │
-                    └─────────────────────┘
+![Inbox](assets/ai-travel-pipeline.png)
 
 # Demo
 
